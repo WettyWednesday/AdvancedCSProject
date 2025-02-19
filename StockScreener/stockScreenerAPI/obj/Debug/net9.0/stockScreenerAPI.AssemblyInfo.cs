@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stockScreenerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcf7ac4726265ef31bf093bae50334070f93d249")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58e1ee052c55c6bd9b1f90fc241824a1025955e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("stockScreenerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stockScreenerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

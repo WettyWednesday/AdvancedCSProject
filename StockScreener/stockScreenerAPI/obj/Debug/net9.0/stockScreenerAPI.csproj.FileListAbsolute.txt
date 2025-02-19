@@ -32,3 +32,6 @@ C:\Users\frede\Skrivebord\4.semester\advancedOOP\project\AdvancedCSProject\Stock
 C:\Users\frede\Skrivebord\4.semester\advancedOOP\project\AdvancedCSProject\StockScreener\stockScreenerAPI\obj\Debug\net9.0\stockScreenerAPI.pdb
 C:\Users\frede\Skrivebord\4.semester\advancedOOP\project\AdvancedCSProject\StockScreener\stockScreenerAPI\obj\Debug\net9.0\stockScreenerAPI.genruntimeconfig.cache
 C:\Users\frede\Skrivebord\4.semester\advancedOOP\project\AdvancedCSProject\StockScreener\stockScreenerAPI\obj\Debug\net9.0\ref\stockScreenerAPI.dll
+C:\Users\frede\Skrivebord\4.semester\advancedOOP\project\AdvancedCSProject\StockScreener\stockScreenerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\frede\Skrivebord\4.semester\advancedOOP\project\AdvancedCSProject\StockScreener\stockScreenerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\frede\Skrivebord\4.semester\advancedOOP\project\AdvancedCSProject\StockScreener\stockScreenerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

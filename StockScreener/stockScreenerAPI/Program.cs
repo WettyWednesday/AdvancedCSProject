@@ -1,6 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddOpenApi();
+builder.Services.AddEndpointsApiExplorer();  
+builder.Services.AddSwaggerGen();           
 
 builder.Services.AddCors(options =>
 {
@@ -19,12 +20,12 @@ app.UseCors("AllowAll");
 
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    app.UseSwagger(); 
+    app.UseSwaggerUI(); 
 }
 
 app.UseHttpsRedirection();
 
-// Example endpoint
 var summaries = new[] { "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" };
 
 app.MapGet("/weatherforecast", () =>
