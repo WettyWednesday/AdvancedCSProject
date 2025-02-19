@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Me1INDcdstG37nkjgwI7I/yQe1jeK0nKe//zQObun58=",
+  "Source": "stockScreenerAPI",
+  "BasePath": "_content/stockScreenerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

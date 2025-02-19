@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAJxajNwaFY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frede\\Skrivebord\\4.semester\\advancedOOP\\project\\AdvancedCSProject\\StockScreener\\stockScreenerAPI\\stockScreenerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\frede\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
